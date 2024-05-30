@@ -4,7 +4,8 @@ Roblox Ally Checker is a tool used for checking Roblox Group Allies.
 ## Setup
   1. Install [Python](https://www.python.org/)
   2. Download and extract this repository
-  3. Run `python main.py`
+  3. Run `pip install requests`
+  4. Run `python main.py`
   5. Enter your group id.
   6. Done!
 ## Notes
